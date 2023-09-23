@@ -1,5 +1,3 @@
-_wincpy_ start 8c2e6882503c4baa9ce2e050497c3f2fPYTEST
-
 import sys
 
 def filter_stdin(char):
